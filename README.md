@@ -8,3 +8,5 @@ contributors -
 Luis Salgado - lesalgado@csu.fullerton.edu
 
 Ibrahim -
+
+Luke Chua Marquez - luke.chua@csu.fullerton.edu
